@@ -10,7 +10,7 @@
         <li><strong>Payment & Ledger Management</strong>: Track payments and maintain client ledgers.</li>
         <li><strong>Delivery Management</strong>: View and manage deliverable orders, marking products as available or unavailable and confirming deliveries.</li>
     </ul>
-
+    <hr>
     <h2>Tech Stack:</h2>
     <ul>
         <li><strong>Front-End</strong>: React with Tailwind CSS for styling.</li>
